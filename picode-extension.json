@@ -1,7 +1,10 @@
 {
-  "id": "picode-mail-google",
+  "id": "mail-google",
+  "formerly": [
+    "picode-mail-google"
+  ],
   "name": "Google Mail",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "apiVersion": 5,
   "publisher": "COGNIX[WS]",
   "description": "Connect and synchronize your Google Mail accounts with the core Inbox.",
